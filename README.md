@@ -1,7 +1,18 @@
 
 
 # Hello! <img src="https://media.tenor.com/images/f8f038de69370be3c9888783425c0299/tenor.gif" width="40"/> I'm Mariano!
-### I'm about to finish my bootcamp on Backend Development with Node.js. Diving into React. Looking forward to make this hobbie my profession
+### I'm about to finish my bootcamp on Backend Development with NodeJS. Now, diving into React. Looking forward to make this hobbie my profession
+
+``` javascript
+{
+    name: "Mariano",
+    city: "Barcelona",
+    languages: ["spanish", "english"],
+    study: "Web Development",
+    skills: ["nodejs", "javascript", "mongodb", "mysql", "react"],
+    
+}
+```
 
 
 <p align="left">
@@ -15,11 +26,9 @@
 
 # Browse my Repo
 
-I'm creating this Index to organize my repos a bit. Feel free to check it! :construction_worker: On progress!
+I'm creating this Index to organize my repos a bit. Feel free to check it! :construction_worker: Work in progress! :construction_worker:
 
-## Tabla de Contenidos
-- [Browse my Repo](#browse-my-repo)
-  - [Tabla de Contenidos](#tabla-de-contenidos)
+## Index
   - [Bootcamp Backend Node.js at IT-Academy](#bootcamp-backend-nodejs-at-it-academy)
     - [Sprint: 1 Basic concepts of JavaScript](#sprint-1-basic-concepts-of-javascript)
     - [Sprint 2: Data Bases](#sprint-2-data-bases)
