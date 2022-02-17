@@ -8,7 +8,7 @@
     name: "Mariano",
     city: "Barcelona",
     languages: ["spanish", "english"],
-    study: "Web Development",
+    study: "Web Application Development",
     skills: ["nodejs", "javascript", "mongodb", "mysql", "react"],
     
 }
@@ -26,7 +26,7 @@
 
 # Browse my Repo
 
-I'm creating this Index to organize my repos a bit. Feel free to check it! :construction_worker: Work in progress! :construction_worker:
+I'm making this Index to organize my repos a bit. Feel free to check it! Every link is a repo. :construction_worker: Work in progress! :construction_worker:
 
 ## Index
   - [Bootcamp Backend Node.js at IT-Academy](#bootcamp-backend-nodejs-at-it-academy)
@@ -37,10 +37,10 @@ I'm creating this Index to organize my repos a bit. Feel free to check it! :cons
     - [Sprint 5: WebSockets](#sprint-5-websockets)
 
 
+---
 
 
-
-## Bootcamp Backend Node.js at IT-Academy
+## Bootcamp Backend Node.js at [IT-Academy](https://www.barcelonactiva.cat/es/itacademy)
 In the Node.js specialization you will learn to provide highly scalable agile backend systems from the following objectives:
 
 * Learn to use Javascript (ES6) with the server mitjançant a great window of fast utilities that Node ens offers to execute on Google's V8 engine
@@ -77,3 +77,8 @@ In the Node.js specialization you will learn to provide highly scalable agile ba
 [5.1: Chat-App](https://github.com/mariano-farace/SPRINT5-ITAcademey-Chat-App)
 
 
+---
+
+
+
+## Course: Modern Web Application Development with JavaScript at [FSO](https://fullstackopen.com/en/about)
