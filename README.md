@@ -20,7 +20,3 @@
  [1.5: Node Utils]((https://github.com/mariano-farace/SPRINT1-ITAcademey))<br>
  [1.6: Testing with Jest]((https://github.com/mariano-farace/SPRINT1-ITAcademey))<br>
 
-### Sprint 2:
-### Sprint 3:
-### Sprint 4:
-### Sprint 5:
