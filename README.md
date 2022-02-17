@@ -13,7 +13,7 @@
 
 ### Sprint 1 Basic concepts of JavaScript
 
- [1.1: Functions & Template Literals]((https://github.com/mariano-farace/SPRINT1-ITAcademey))<br>
+ [1.1: Functions & Template Literals](https://github.com/mariano-farace/SPRINT1-ITAcademey)<br>
  [1.2: Clases & Arrow Functions]((https://github.com/mariano-farace/SPRINT1-ITAcademey)) <br>
  [1.3: Promises & Callbacks]((https://github.com/mariano-farace/SPRINT1-ITAcademey))<br>
  [1.4: Async/Await]((https://github.com/mariano-farace/SPRINT1-ITAcademey))<br>
