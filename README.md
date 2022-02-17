@@ -1,7 +1,7 @@
 
 
 # Hello! <img src="https://media.tenor.com/images/f8f038de69370be3c9888783425c0299/tenor.gif" width="40"/> I'm Mariano!
-### I'm about to finish my bootcamp on Backend Development with NodeJS. Now, diving into React. Looking forward to make this hobbie my profession
+### I'm about to finish my bootcamp on Backend Development with NodeJS. Now, diving into React. Looking forward to make out of this hobby my profession
 
 ``` javascript
 {
