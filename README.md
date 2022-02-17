@@ -4,7 +4,6 @@
 ### I'm about to finish my bootcamp on Backend Development with Node.js. Diving into React. Looking forward to make this hobbie my profession
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
