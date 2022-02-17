@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mariano</h1>
+
+@@ -1,3 +1,5 @@
+# Hello! <img src="https://media.tenor.com/images/f8f038de69370be3c9888783425c0299/tenor.gif" width="40"/>
+### I'm currently studying web development.
 <h3 align="center">About to finish my bootcamp on Backend development with Node.js. Diving into React. Looking forward to make this hobbie my profession!</h3>
 
 <h3 align="left">Connect with me:</h3>
