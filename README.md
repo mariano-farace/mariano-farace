@@ -69,10 +69,10 @@ In the Node.js specialization you will learn to provide highly scalable agile ba
 ### Sprint 3: Design Patterns
 [3.1: Patterns 1](https://github.com/mariano-farace/SPRINT3-ITAcademey)<br>
 [3.1: Patterns 2](https://github.com/mariano-farace/SPRINT3-ITAcademey)<br>
-[3.3: Developers Team](https://github.com/mariano-farace/itacademy-sprint3.3-DevelopersTeam/tree/main)<br>
+[3.3: Developers Team](https://github.com/mariano-farace/itacademy-sprint3.3-DevelopersTeam/tree/main) A simple TO-DO app made with Node.js, [Terminal-kit](https://www.npmjs.com/package/terminal-kit), and data persistence with mongoDB and MySQL <br>
 ### Sprint 4: REST API
 [4.1: REST Server Node](https://github.com/mariano-farace/SPRINT4-ITAcademey-Node-REST-Server)<br>
-[4.2: Node REST + DB + JWT](https://github.com/mariano-farace/SPRINT4-ITAcademey-DiceGame)<br>
+[4.2: Node REST + DB + JWT](https://github.com/mariano-farace/SPRINT4-ITAcademey-DiceGame) An REST API for a dice game, made with Node, mongoDB and MySQL persistence and JWT authentication<br>
 ### Sprint 5: WebSockets
 [5.1: Chat-App](https://github.com/mariano-farace/SPRINT5-ITAcademey-Chat-App)
 
