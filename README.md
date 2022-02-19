@@ -29,13 +29,16 @@
 I'm making this Index to organize my repos a bit. Feel free to check it! Every link is a repo. :construction_worker: Work in progress! :construction_worker:
 
 ## Index
-  - [Bootcamp Backend Node.js at IT-Academy](#bootcamp-backend-nodejs-at-it-academy)
-    - [Sprint: 1 Basic concepts of JavaScript](#sprint-1-basic-concepts-of-javascript)
-    - [Sprint 2: Data Bases](#sprint-2-data-bases)
-    - [Sprint 3: Design Patterns](#sprint-3-design-patterns)
-    - [Sprint 4: REST API](#sprint-4-rest-api)
-    - [Sprint 5: WebSockets](#sprint-5-websockets)
-
+  
+  * [Bootcamp Backend Node.js at IT-Academy](#bootcamp-backend-nodejs-at--it-academy--https---wwwbarcelonactivacat-es-itacademy-)
+    + [Sprint: 1 Basic concepts of JavaScript](#sprint--1-basic-concepts-of-javascript)
+    + [Sprint 2: Data Bases](#sprint-2--data-bases)
+    + [Sprint 3: Design Patterns](#sprint-3--design-patterns)
+    + [Sprint 4: REST API](#sprint-4--rest-api)
+    + [Sprint 5: WebSockets](#sprint-5--websockets)
+  * [Course: Modern Web Application Development with JavaScript at FSO](#course--modern-web-application-development-with-javascript-at--fso--https---fullstackopencom-en-about-)
+    + [Part 1: Introduction to React](#part-1--introduction-to-react)
+  * [Templates and Starting codes](#templates-and-starting-codes)
 
 ---
 
@@ -90,3 +93,14 @@ The course covers testing, configuration and environment management, and the use
 The course is worth 5-13 credits, and the content is the same as in the Full stack course held at the Department of Computer Science at the University of Helsinki in Spring 2020. There is also an associated project that is worth 1-10 credits.</p>
 
 ### Part 1: Introduction to React
+
+---
+
+## Templates and Starting codes
+[General project README template](https://github.com/mariano-farace/Best-README-Template)<br>
+ [Node/Express API Starting Point](https://github.com/mariano-farace/node-express-start-point)<br>
+
+
+
+ 
+
