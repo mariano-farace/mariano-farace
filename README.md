@@ -26,7 +26,7 @@
 
 # Browse my Repo
 
-I'm making this Index to organize my repos a bit. Feel free to check it! Every link is a repo. :construction_worker: Work in progress! :construction_worker:
+I'm making this Index to organize my repos a bit. Feel free to check it! :construction_worker: Work in progress! :construction_worker:
 
 ## Index
   - [Bootcamp Backend Node.js at IT-Academy](#bootcamp-backend-nodejs-at-it-academy)
