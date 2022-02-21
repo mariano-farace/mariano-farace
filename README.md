@@ -29,7 +29,6 @@
 I'm making this Index to organize my repos a bit. Feel free to check it! Every link is a repo. :construction_worker: Work in progress! :construction_worker:
 
 ## Index
-## Index
   - [Bootcamp Backend Node.js at IT-Academy](#bootcamp-backend-nodejs-at-it-academy)
     - [Sprint: 1 Basic concepts of JavaScript](#sprint-1-basic-concepts-of-javascript)
     - [Sprint 2: Data Bases](#sprint-2-data-bases)
