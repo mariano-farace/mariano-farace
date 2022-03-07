@@ -53,7 +53,12 @@ I'm making this Index to organize my repos a bit. Feel free to check it! :constr
 
 
 
-## Bootcamp Backend Node.js at [IT-Academy](https://www.barcelonactiva.cat/es/itacademy)
+## Bootcamp: Backend with Node.js at [IT-Academy](https://www.barcelonactiva.cat/es/itacademy)
+
+
+<details>
+  <summary>About: Click to expand!</summary>
+ 
 In the Node.js specialization you will learn to provide highly scalable agile backend systems from the following objectives:
 
 * Learn to use Javascript (ES6) with the server mitjançant a great window of fast utilities that Node ens offers to execute on Google's V8 engine
@@ -65,6 +70,7 @@ In the Node.js specialization you will learn to provide highly scalable agile ba
 * Affect the security of the APIs with JWT (JSON Web Tokens)
 * Explore the socket.io library to develop web-sockets
 * Implement test libraries (JEST) to build more powerful software and prepare it to be deployed in continuous integration environments 
+  </details>
 ### Sprint: 1 Basic concepts of JavaScript
 
  [1.1: Functions & Template Literals](https://github.com/mariano-farace/SPRINT1-ITAcademey)<br>
@@ -95,17 +101,20 @@ In the Node.js specialization you will learn to provide highly scalable agile ba
 [5.1: Chat-App](https://github.com/mariano-farace/SPRINT5-ITAcademey-Chat-App) A chat application. Node/Express - React - Socket.io - JWT - GoogleAuth - mongoDB
 
 
+
 ---
 
 
 
 ## Course: Modern Web Application Development with JavaScript at [FSO](https://fullstackopen.com/en/about)
-
+<details>
+  <summary>About: Click to expand!</summary>
 <p>This course serves as an introduction to modern web application development with JavaScript. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. The course also contains a section on GraphQL, a modern alternative to REST APIs.
 
 The course covers testing, configuration and environment management, and the use of MongoDB for storing the application’s data.
 
 The course is worth 5-13 credits, and the content is the same as in the Full stack course held at the Department of Computer Science at the University of Helsinki in Spring 2020. There is also an associated project that is worth 1-10 credits.</p>
+  </details>
 
 ### Part 1: Introduction to React
 
