@@ -115,9 +115,9 @@ The course is worth 5-13 credits, and the content is the same as in the Full sta
   </details>
 
 ### Part 1: Introduction to React
-[Anecdotes-App](https://github.com/mariano-farace/full-stack-open/tree/main/part1/anecdotes)
-[Course-Info-App](https://github.com/mariano-farace/full-stack-open/tree/main/part1/courseinfo)
-[Unicafe-App](https://github.com/mariano-farace/full-stack-open/tree/main/part1/unicafe)
+[Anecdotes-App](https://github.com/mariano-farace/full-stack-open/tree/main/part1/anecdotes)<br>
+[Course-Info-App](https://github.com/mariano-farace/full-stack-open/tree/main/part1/courseinfo)<br>
+[Unicafe-App](https://github.com/mariano-farace/full-stack-open/tree/main/part1/unicafe)<br>
 
 ---
 
