@@ -118,7 +118,14 @@ The course is worth 5-13 credits, and the content is the same as in the Full sta
 [Anecdotes-App](https://github.com/mariano-farace/full-stack-open/tree/main/part1/anecdotes)<br>
 [Course-Info-App](https://github.com/mariano-farace/full-stack-open/tree/main/part1/courseinfo)<br>
 [Unicafe-App](https://github.com/mariano-farace/full-stack-open/tree/main/part1/unicafe)<br>
-
+### Part 2: Communicating with server
+[Countries-App](https://github.com/mariano-farace/full-stack-open/tree/main/part2/countries-app)
+[Course-Info-App](https://github.com/mariano-farace/full-stack-open/tree/main/part2/courseinfo)
+[Phonebook-App](https://github.com/mariano-farace/full-stack-open/tree/main/part2/phonebook)
+### Part 3: Programming a server with NodeJS and Express
+[Phonebook-App-Full-Stack](https://github.com/mariano-farace/full-stack-open/tree/main/part3)
+### Part 4: Testing Express servers, user administration
+[Blog-Api](https://github.com/mariano-farace/full-stack-open/tree/main/part4/BlogList)
 ---
 
 ## Templates and Starting codes
