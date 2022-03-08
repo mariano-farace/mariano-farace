@@ -30,12 +30,12 @@ I'm making this Index to organize my repos a bit. Feel free to check it! :constr
 
 <h2 style="color:red">Most Relevant Projects</h2>
 
-### Collaborative Proyects
-
- - [Chat-App](https://github.com/mariano-farace/SPRINT5-ITAcademey-Chat-App) A chat application. Node/Express - React - Socket.io - JWT - GoogleAuth - mongoDB
+### Collaborative
  - [ITA-Directory](https://github.com/it-academyproject/ita-directory) A Real Estate App. Node - React - Prisma - PostgreSQL
-
-
+ 
+ 
+### Personal
+- [Chat-App](https://github.com/mariano-farace/SPRINT5-ITAcademey-Chat-App) A chat application. Node/Express - React - Socket.io - JWT - GoogleAuth - mongoDB
 
 ## Index
   - [Bootcamp Backend Node.js at IT-Academy](#bootcamp-backend-nodejs-at-it-academy)
