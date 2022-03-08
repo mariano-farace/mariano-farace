@@ -96,7 +96,7 @@ In the Node.js specialization you will learn to provide highly scalable agile ba
 ### Sprint 4: REST API
 
 [4.1: REST Server Node](https://github.com/mariano-farace/SPRINT4-ITAcademey-Node-REST-Server) Practice server<br>
-[4.2: Node REST + DB + JWT](https://github.com/mariano-farace/SPRINT4-ITAcademey-DiceGame) An REST API for a dice game, made with Node, mongoDB and MySQL persistence and JWT authentication<br>
+[4.2: Node REST + DB + JWT](https://github.com/mariano-farace/SPRINT4-ITAcademey-DiceGame) A REST API for a dice game, made with Node, mongoDB and MySQL persistence and JWT authentication<br>
 
 
 ### Sprint 5: WebSockets
