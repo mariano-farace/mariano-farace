@@ -37,6 +37,7 @@ I'm making this Index to organize my repos a bit. Feel free to check it! :constr
 ### Personal
 - [Chat-App](https://github.com/mariano-farace/SPRINT5-ITAcademey-Chat-App) Chat application. Node/Express - React - Socket.io - JWT - GoogleAuth - mongoDB <br>
 - [Countries-App](https://github.com/mariano-farace/full-stack-open/tree/main/part2/countries-app) Simple React app to display Country and Weather Information from two APIs<br>
+- [Phonebook-App](https://github.com/mariano-farace/full-stack-open/tree/main/part3) React - Node - mongoDB - Deployed with Heroku
 
 
 ## Index
