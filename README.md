@@ -31,12 +31,12 @@ I'm making this Index to organize my repos a bit. Feel free to check it! :constr
 <h2 style="color:red">Most Relevant Projects</h2>
 
 ### Collaborative
- - [ITA-Directory](https://github.com/it-academyproject/ita-directory) A Real Estate App. Node - React - Prisma - PostgreSQL
+ - [ITA-Directory](https://github.com/it-academyproject/ita-directory) Real Estate App. Node - React - Prisma - PostgreSQL
  
  
 ### Personal
-- [Chat-App](https://github.com/mariano-farace/SPRINT5-ITAcademey-Chat-App) A chat application. Node/Express - React - Socket.io - JWT - GoogleAuth - mongoDB <br>
-- [Countries-App](https://github.com/mariano-farace/full-stack-open/tree/main/part2/countries-app)Simple React app to display Country and Weather Information from two APIs<br>
+- [Chat-App](https://github.com/mariano-farace/SPRINT5-ITAcademey-Chat-App) Chat application. Node/Express - React - Socket.io - JWT - GoogleAuth - mongoDB <br>
+- [Countries-App](https://github.com/mariano-farace/full-stack-open/tree/main/part2/countries-app) Simple React app to display Country and Weather Information from two APIs<br>
 
 
 ## Index
