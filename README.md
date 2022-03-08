@@ -23,11 +23,6 @@
 
 
 
-
-# Browse my Repo
-
-I'm making this Index to organize my repos a bit. Feel free to check it! :construction_worker: Work in progress! :construction_worker:
-
 <h2 style="color:red">Most Relevant Projects</h2>
 
 ### Collaborative
@@ -39,6 +34,12 @@ I'm making this Index to organize my repos a bit. Feel free to check it! :constr
 - [Countries-App](https://github.com/mariano-farace/full-stack-open/tree/main/part2/countries-app) Simple React app to display Country and Weather Information from two APIs<br>
 - [Phonebook-App](https://github.com/mariano-farace/full-stack-open/tree/main/part3) React - Node - mongoDB - Deployed with Heroku
 
+
+
+
+# Browse my Repo
+
+I'm making this Index to organize my repos a bit. Feel free to check it! :construction_worker: Work in progress! :construction_worker:
 
 ## Index
   - [Bootcamp Backend Node.js at IT-Academy](#bootcamp-backend-nodejs-at-it-academy)
