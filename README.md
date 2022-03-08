@@ -35,7 +35,9 @@ I'm making this Index to organize my repos a bit. Feel free to check it! :constr
  
  
 ### Personal
-- [Chat-App](https://github.com/mariano-farace/SPRINT5-ITAcademey-Chat-App) A chat application. Node/Express - React - Socket.io - JWT - GoogleAuth - mongoDB 
+- [Chat-App](https://github.com/mariano-farace/SPRINT5-ITAcademey-Chat-App) A chat application. Node/Express - React - Socket.io - JWT - GoogleAuth - mongoDB <br>
+- [Countries-App](https://github.com/mariano-farace/full-stack-open/tree/main/part2/countries-app)Simple React app to display Country and Weather Information from two APIs<br>
+
 
 ## Index
   - [Bootcamp Backend Node.js at IT-Academy](#bootcamp-backend-nodejs-at-it-academy)
