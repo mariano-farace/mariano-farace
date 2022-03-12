@@ -9,8 +9,7 @@
     city: "Barcelona",
     languages: ["spanish", "english"],
     study: "Web Application Development",
-    skills: ["nodejs", "javascript", "mongodb", "mysql", "react"],
-    
+        
 }
 ```
 🔭 I’m currently working on [ITA-Directory, a real estate App](https://github.com/it-academyproject/ita-directory)
