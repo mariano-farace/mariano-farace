@@ -13,6 +13,7 @@
 }
 ```
 🔭 I’m currently working on [ITA-Directory, a real estate App](https://github.com/it-academyproject/ita-directory)
+📖 Reading ["You Don't Know JS Yet"](https://github.com/getify/You-Dont-Know-JS)
 
 <p align="left">
 </p>
