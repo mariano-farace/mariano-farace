@@ -31,7 +31,7 @@
  
  
 ### Personal
-- [e-commerce](https://github.com/mariano-farace/e-commerce) Typescript - Node/Express - React/Redux - Styled-Components - JWT - GoogleAuth - mongoDB/mongoose (Cloud) - Jest - Stripe. 🚧 Work in progress 🚧 <br>
+- [e-commerce](https://github.com/mariano-farace/e-commerce) Typescript - Node/Express - React/Redux - Styled-Components - JWT - mongoDB/mongoose (Cloud) - Jest - Stripe. 🚧 Work in progress 🚧 <br>
 - [Chat-App](https://github.com/mariano-farace/SPRINT5-ITAcademey-Chat-App) Node/Express - React - Socket.io - JWT - GoogleAuth - mongoDB (Cloud). [Try it!](https://mariano-farace.github.io/SPRINT5-ITAcademey-Chat-App). Deployed with GitHub pages and Heroku <br>
 - [Countries-App](https://github.com/mariano-farace/full-stack-open/tree/main/part2/countries-app) Simple React app to display Country and Weather Information from two APIs<br>
 - [Phonebook-App](https://github.com/mariano-farace/full-stack-open/tree/main/part3) React - Node - mongoDB - [Deployed with Heroku](https://phonebook-app-mf.herokuapp.com/)
